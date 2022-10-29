@@ -11,18 +11,4 @@ hello world!
 hello world! master test
 hello world!hot-fix test
 
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-hello.txt[+] [unix] (07:59 01/01/1970)                                                7,1 All
--- INSERT --
-
 
